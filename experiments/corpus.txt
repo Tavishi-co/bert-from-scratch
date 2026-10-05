@@ -1,0 +1,10 @@
+The transformer architecture changed natural language processing.
+Transformers use attention to understand relationships between tokens.
+BERT uses bidirectional self attention.
+BERT is pretrained using masked language modeling.
+A language model learns patterns from text.
+Machine learning models learn useful representations from data.
+Deep learning uses neural networks to learn complex patterns.
+Attention allows each token to interact with other tokens.
+The encoder produces contextual representations.
+Contextual representations are useful for many natural language tasks.
